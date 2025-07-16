@@ -47,3 +47,12 @@ The server will start on: http://localhost:3000
 | GET    | `/events/upcoming`     | List all upcoming events (sorted)         |
 | GET    | `/events/:id/stats`    | View event stats: registration + capacity |
 
+### Here are some screenshots of requests and responses:
+
+<img width="1738" height="888" alt="Screenshot 2025-07-16 064413" src="https://github.com/user-attachments/assets/567afaf4-943a-431d-b859-64d4b6be3915" />
+<img width="1754" height="877" alt="Screenshot 2025-07-16 064507" src="https://github.com/user-attachments/assets/f61df554-9072-4cf7-b54c-d0d8748b7ede" />
+<img width="1659" height="866" alt="Screenshot 2025-07-16 064648" src="https://github.com/user-attachments/assets/d8f07cc9-91aa-4405-a75b-3cbabf643af5" />
+<img width="1713" height="873" alt="Screenshot 2025-07-16 064540" src="https://github.com/user-attachments/assets/6de809df-6822-4eee-b231-dea929d1ce3a" />
+
+
+
